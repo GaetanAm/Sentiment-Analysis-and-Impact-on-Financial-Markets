@@ -1,0 +1,1 @@
+# Pour répertorier les dépendances et permettre à tous les membres d'installer facilement les packages requis
